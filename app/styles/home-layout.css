@@ -13,10 +13,10 @@
     line-height: 50px;
     background-color: #108ee9;
     color: #fff;
-
-a {
-    color: inherit;
 }
+
+.header a {
+    color: inherit;
 }
 
 .menu {
